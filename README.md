@@ -1,1 +1,1 @@
-![profile_image](./0.jpeg)
+![profile_image](./0.jpg)
